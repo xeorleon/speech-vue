@@ -1,5 +1,6 @@
 # speech-vue
 
+
 ## Project setup
 ```
 npm install
@@ -15,5 +16,5 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo Link
+See [Demo](https://vast-everglades-10883.herokuapp.com/).
