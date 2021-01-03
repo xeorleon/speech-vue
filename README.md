@@ -1,5 +1,7 @@
-# speech-vue
-
+# speech-vue comands
+*Bir not eklemek için konuşmak yeterli
+*Bir not silmek için örnek : 1 nolu notu sil demeniz yeterlidir.
+*Hepsini silmek için Tüm notları sil
 
 ## Project setup
 ```
