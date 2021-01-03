@@ -6,7 +6,7 @@ const app = express();
 
 app.use("/", serveStatic(path.join(__dirname, 'dist')))
 
-const port = process.env || 5000
+const port = process.env || 8080
 
 app.listen(port)
 
